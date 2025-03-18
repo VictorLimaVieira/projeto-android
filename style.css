@@ -66,6 +66,7 @@ header > p {
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.24);
+    padding: 40px;
 }
 
 nav{
@@ -118,6 +119,11 @@ main img.pequena {
     margin: auto;
 }
 
+img {
+    max-width: 500px;
+    min-width: 400px;
+}
+
 main p {
     margin: 15px 0px;
     text-align: justify;
@@ -155,6 +161,9 @@ h4{
     font-size: 15px;
     color: rgb(28, 223, 77);
 }
+
+
+
 
 div.video {
     background-color: var(--cor5);
