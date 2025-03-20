@@ -120,8 +120,8 @@ main img.pequena {
 }
 
 img {
-    max-width: 500px;
-    min-width: 400px;
+    width="560" 
+    height="315"
 }
 
 main p {
